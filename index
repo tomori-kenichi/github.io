@@ -22,7 +22,7 @@
             </div>
             
             <div class="main-wrapper">
-                <h1 class="senter">46歳がプログラミングにチャレンジ</h1>
+                <h1 class="senter">47歳がプログラミングにチャレンジ</h1>
                 <div class="width-size">
                      <h2>基本を習得した言語</h2>
                         <div class="main-list1">
@@ -39,19 +39,20 @@
                                 <li>
                                     HTML CSS　　 <a href="htmlcss.html">成果物</a>
                                 </li>
+                                <li>
+                                    PHP
+                                </li>
                                  <li>
                                     SQL
                                 </li>
-                                <li>
-                                    Unity     <a href="unity.html">   成果物</a>
-                                </li>
+                               
                             </ul>
                         </div>
                     <h2>次に勉強したいと考えている言語</h2>
                         <div class="main-list3">
                             <ul>
                                 <li>
-                                    PHP
+                                    Unity     <a href="unity.html">   成果物</a>
                                 </li>
                                 <li>
                                     C#
